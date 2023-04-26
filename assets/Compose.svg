@@ -1,0 +1,46 @@
+<svg width="32" height="34" viewBox="0 0 32 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_415_6784" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="8" y="8" width="16" height="18">
+<path d="M14.9896 9.76131C15.6149 9.4129 16.3851 9.4129 17.0104 9.76131L21.9896 12.5361C22.6149 12.8845 23 13.5284 23 14.2252V19.7748C23 20.4716 22.6149 21.1155 21.9896 21.4639L17.0104 24.2387C16.3851 24.5871 15.6149 24.5871 14.9896 24.2387L10.0104 21.4639C9.38515 21.1155 9 20.4716 9 19.7748V14.2252C9 13.5284 9.38515 12.8845 10.0104 12.5361L14.9896 9.76131Z" stroke="white" stroke-width="2"/>
+</mask>
+<g mask="url(#mask0_415_6784)">
+<g clip-path="url(#clip0_415_6784)">
+<rect width="32" height="32" transform="matrix(1 0 0 -1 0 33)" fill="#8B418F"/>
+<mask id="mask1_415_6784" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="1" width="32" height="32">
+<rect width="32" height="32" transform="matrix(1 0 0 -1 0 33)" fill="url(#paint0_linear_415_6784)"/>
+</mask>
+<g mask="url(#mask1_415_6784)">
+<rect width="32" height="32" transform="matrix(1 0 0 -1 0 33)" fill="#8B418F"/>
+</g>
+</g>
+</g>
+<mask id="mask2_415_6784" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="0" width="30" height="34">
+<path d="M13.9793 2.04004C15.2297 1.31999 16.7703 1.31999 18.0207 2.04004L27.9793 7.77459C29.2297 8.49464 30 9.82535 30 11.2654V22.7346C30 24.1747 29.2297 25.5054 27.9793 26.2254L18.0207 31.96C16.7703 32.68 15.2297 32.68 13.9793 31.96L4.02073 26.2254C2.7703 25.5054 2 24.1747 2 22.7346V11.2654C2 9.82535 2.7703 8.49464 4.02073 7.77459L13.9793 2.04004Z" stroke="white" stroke-width="2"/>
+</mask>
+<g mask="url(#mask2_415_6784)">
+<g clip-path="url(#clip1_415_6784)">
+<rect width="36" height="36" transform="matrix(1 0 0 -1 -2.00006 35)" fill="#8B418F"/>
+<mask id="mask3_415_6784" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-2" y="-1" width="36" height="36">
+<rect width="36" height="36" transform="matrix(1 0 0 -1 -2.00006 35)" fill="url(#paint1_linear_415_6784)"/>
+</mask>
+<g mask="url(#mask3_415_6784)">
+<rect width="36" height="36" transform="matrix(1 0 0 -1 -2.00006 35)" fill="#8B418F"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_415_6784" x1="31.8672" y1="-6.04159e-07" x2="12.295" y2="38.2854" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_415_6784" x1="35.8506" y1="-8.80122e-07" x2="13.8318" y2="43.0711" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<clipPath id="clip0_415_6784">
+<rect width="32" height="32" fill="white" transform="matrix(1 0 0 -1 0 33)"/>
+</clipPath>
+<clipPath id="clip1_415_6784">
+<rect width="36" height="36" fill="white" transform="matrix(1 0 0 -1 -2.00006 35)"/>
+</clipPath>
+</defs>
+</svg>
